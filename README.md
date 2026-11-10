@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Matteo Capoferri
 
-<!--
-**matteo-capoferri/matteo-capoferri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student at Politecnico di Milano. What I enjoy most about mathematics is working through an argument, understanding why it holds, and seeing what changes when you relax an assumption.
 
-Here are some ideas to get you started:
+## What I’m interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Analysis** — I’m particularly interested in real and functional analysis.
+- **Probability and stochastic processes** — I like studying how randomness shapes the way a system evolves over time.
+- **Numerical methods** — I’m interested in how mathematical ideas become algorithms, and how choices like step size affect the accuracy of a computation.
+
+## Programming
+
+C and C++ are the languages I’m most comfortable with. I enjoy using code to work through mathematical problems and explore how an algorithm behaves on concrete examples.
+
+## Current project
+
+**Hedging Competition** — I’m working with a team to explore how mathematical models can represent financial risk and how we can compare strategies for managing it.
