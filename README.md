@@ -10,7 +10,7 @@ I’m a student at Politecnico di Milano. What I enjoy most about mathematics is
 
 ## Programming
 
-C and C++ are the languages I’m most comfortable with. I enjoy using code to work through mathematical problems and explore how an algorithm behaves on concrete examples.
+C, C++, MATLAB and R are the languages I’m most comfortable with. I enjoy using code to work through mathematical problems and explore how an algorithm behaves on concrete examples.
 
 ## Current project
 
